@@ -13,3 +13,8 @@ Generate the geometry model, tracking the position and deformation for each visi
 ### Comparison with SurfelWarp (Right)
 
 <img src="docs/mario_star.gif" height="200"/> <img src="docs/mario_surfelwarp.gif" height="200"/>
+
+### Interactive demo (Ongoing)
+
+An interacitve is also provided for better evaluation of our results. [Interactive demo](https://changhaonan.github.io/Easy3DViewer/
+)
