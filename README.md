@@ -10,9 +10,11 @@ Generate the geometry model, tracking the position and deformation for each visi
 
 <img src="docs/move_triple_cam0.gif" height="200"/> <img src="docs/move_triple_live.gif" height="200"/> <img src="docs/move_triple_seg.gif" height="200"/>
 
-### Comparison with SurfelWarp (Right)
+### Comparison with SurfelWarp (RGB, Ours, SurfelWarp)
 
-<img src="docs/mario_star.gif" height="200"/> <img src="docs/mario_surfelwarp.gif" height="200"/>
+<img src="docs/mario_cam0.gif" height="200"/> <img src="docs/mario_star.gif" height="200"/> <img src="docs/mario_surfelwarp.gif" height="200"/>
+
+Watch the differences between two methods in handling topological change between the mario and the hand.
 
 ### Interactive demo (Still ongoing)
 
