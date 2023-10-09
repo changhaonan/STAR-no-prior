@@ -20,3 +20,15 @@ Watch the differences between two methods in handling topological change between
 
 An interacitve is also provided for better evaluation of our results. [Interactive demo](https://changhaonan.github.io/Easy3DViewer/
 )
+
+# Cite this work
+```
+@inproceedings{chang2022scene,
+  title={Scene-level Tracking and Reconstruction without Object Priors},
+  author={Chang, Haonan and Boularias, Abdeslam},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={3785--3792},
+  year={2022},
+  organization={IEEE}
+}
+```
