@@ -23,7 +23,7 @@ An interacitve is also provided for better evaluation of our results. [Interacti
 
 ### Source Code
 
-For source code, please go to [https://github.com/changhaonan/StarHub](). Code is only tested on Ubuntu 20.04.
+For source code, please go to [https://github.com/changhaonan/StarHub](https://github.com/changhaonan/StarHub). Code is only tested on Ubuntu 20.04.
 
 # Cite this work
 ```
