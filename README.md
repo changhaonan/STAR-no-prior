@@ -21,6 +21,10 @@ Watch the differences between two methods in handling topological change between
 An interacitve is also provided for better evaluation of our results. [Interactive demo](https://changhaonan.github.io/Easy3DViewer/
 )
 
+### Source Code
+
+For source code, please go to [git@github.com:changhaonan/StarHub.git](). Code is only tested on Ubuntu 20.04.
+
 # Cite this work
 ```
 @inproceedings{chang2022scene,
